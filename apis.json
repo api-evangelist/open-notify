@@ -1,0 +1,44 @@
+{
+    "name": "Open Notify",
+    "description": "A small project started to track when the ISS is overhead.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28265-open-notify-org.jpg",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/open-notify\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Open Notify",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28265-open-notify-org.jpg",
+            "humanURL": "http:\/\/open-notify.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/open-notify-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Email",
+            "url": "nathan@open-notify.org"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/OpenNotify"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/open-notify.org"
+        }
+    ]
+}
