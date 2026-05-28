@@ -1,0 +1,32 @@
+aid: open-notify
+name: Open Notify
+description: "ISS astronauts, current location, etc"
+url: http://open-notify.org/Open-Notify-API/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Science & Math"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Science And Math
+  - Public APIs
+apis:
+  - name: Open Notify
+    description: "ISS astronauts, current location, etc"
+    humanURL: http://open-notify.org/Open-Notify-API/
+    baseURL: http://open-notify.org/Open-Notify-API/
+    tags:
+      - Science And Math
+    properties:
+      - type: Documentation
+        url: http://open-notify.org/Open-Notify-API/
+common:
+  - type: Website
+    url: http://open-notify.org/Open-Notify-API/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
