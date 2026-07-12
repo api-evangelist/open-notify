@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: http://open-notify.org/Open-Notify-API/
 common:
+  - type: DomainSecurity
+    url: security/open-notify-domain-security.yml
   - type: Website
     url: http://open-notify.org/Open-Notify-API/
   - type: PublicAPIsListing
