@@ -1,4 +1,16 @@
 aid: open-notify
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/open-notify.png
 name: Open Notify
 description: "ISS astronauts, current location, etc"
 url: http://open-notify.org/Open-Notify-API/
