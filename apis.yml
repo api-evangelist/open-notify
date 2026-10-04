@@ -33,13 +33,12 @@ x-category: "Science & Math"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Science And Math
   - Public APIs
+  - Space
 apis:
   - name: Open Notify
     description: "ISS astronauts, current location, etc"
     humanURL: http://open-notify.org/Open-Notify-API/
-    baseURL: http://open-notify.org/Open-Notify-API/
     tags:
       - Science And Math
     properties:
@@ -57,3 +56,5 @@ maintainers:
     email: kin@apievangelist.com
 x-parent: iss-api
 x-relationship: product
+x-tags-removed:
+- Science And Math
